@@ -6,5 +6,5 @@ st.write("-Persian Cat")
 image = Image.open('./perse.jpg')
 st.image(image)
 st.write("-White Cat")
-st.image(r"C:\Users\Administrator\Downloads\perse.jpg")
+st.image("https://www.rover.com/blog/wp-content/uploads/white-cat-min.jpg")
 
