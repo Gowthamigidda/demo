@@ -6,5 +6,5 @@ st.write("-Persian Cat")
 image = Image.open('./perse.jpg')
 st.image(image)
 st.write("-White Cat")
-st.image("./perse.jpg")
+st.image("C:\Users\Administrator\Downloads\perse.jpg")
 
